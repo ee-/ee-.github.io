@@ -1,0 +1,10 @@
+{   
+    "ecma": "es2015",
+    "module": "amd",
+    "outDir": "./assets/js/fsharp",
+    "projFile": "../AcademicMarkdown.fsproj",
+    "sourceMaps": true
+    // "scripts": {
+    //     "prebuild": "npm install"
+    // }
+}

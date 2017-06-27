@@ -1,0 +1,8 @@
+/*css stylesheet for Academic Markdown Editor*/
+
+/*make highlight.js able to display inline code*/
+:not(pre) > code { 
+    display: inline !important; 
+}
+
+body { padding-top: 70px; }
